@@ -3,14 +3,14 @@ Sergio Busquets,35,1.89,83.0,Spain,Midfielder,6,86.4
 Jerome Boateng,35,1.92,94.0,Germany,Defender,5,58.2
 Antonio Rüdiger,30,1.87,85.0,Germany,Defender,8,80.3
 Jules Koundé,25,1.82,80.0,France,Defender,3,61.9
-Thibaut Courtois,31,1.99,96.0,Belgium,Goalkeeper,0,90.0
+Thibaut Courtois,31,1.99,96.0,Belgium,Goalkeeper,0,88.2
 Sadio Mané,31,1.75,78.0,Senegal,Forward,27,75.6
-Wojciech Szczęsny,33,1.96,87.5,Poland,Goalkeeper,0,90.0
+Wojciech Szczęsny,33,1.96,87.5,Poland,Goalkeeper,0,81.1
 Andrew Robertson,29,1.80,74.0,Scotland,Defender,10,86.4
 Gerard Moreno,30,1.79,73.0,Spain,Forward,15,78.6
 Rodri,27,1.91,80.0,Spain,Midfielder,7,82.4
 Phil Foden,22,1.73,68.0,England,Midfielder,15,69.3
-Matthijs de Ligt,23,1.89,82.0,Netherlands,Defender,6,90.0
+Matthijs de Ligt,23,1.89,82.0,Netherlands,Defender,6,80.0
 Gerard Piqué,36,1.94,84.0,Spain,Defender,1,42.0
 Pau Torres,26,1.91,79.0,Spain,Defender,2,72.1
 Diogo Jota,24,1.75,74.0,Portugal,Forward,18,75.6
@@ -18,33 +18,33 @@ Lionel Messi,36,1.70,67.0,Argentina,Forward,27,82.9
 Eder Militao,30,1.84,76.0,Brazil,Defender,4,80.8
 Marquinhos,29,1.83,75.0,Brazil,Defender,8,90.0
 Pablo Sarabia,30,1.81,72.0,Spain,Midfielder,15,54.5
-César Azpilicueta,33,1.78,77.0,Spain,Defender,12,90.0
+César Azpilicueta,33,1.78,77.0,Spain,Defender,12,72.3
 Mason Mount,24,1.83,75.0,England,Midfielder,17,75.5
-Jan Oblak,32,1.88,87.0,Slovenia,Goalkeeper,0,90.0
+Jan Oblak,32,1.88,87.0,Slovenia,Goalkeeper,0,80.9
 Manuel Neuer,37,1.88,82.0,Germany,Goalkeeper,3,90.0
 Marcus Rashford,29,1.75,78.0,England,Forward,15,80.0
-Ederson,30,1.89,80.0,Brazil,Goalkeeper,0,90.0
+Ederson,30,1.89,80.0,Brazil,Goalkeeper,0,88.7
 Cristiano Ronaldo,38,1.84,85.0,Portugal,Forward,19,70.0
 Frenkie de Jong,26,1.84,75.0,Netherlands,Midfielder,18,86.9
-Antoine Griezmann,32,1.74,73.0,France,Forward,20,90.0
+Antoine Griezmann,32,1.74,73.0,France,Forward,20,87.7
 Jadon Sancho,24,1.81,75.0,England,Forward,12,69.0
 David Alaba,31,1.81,78.5,Austria,Defender,10,85.1
 Samir Handanovic,39,1.93,89.0,Slovenia,Goalkeeper,0,10.0
 Karim Benzema,34,1.85,81.0,France,Forward,35,90.0
 Mohamed Salah,31,1.75,73.5,Egypt,Forward,27,88.8
-Erling Haaland,23,1.91,85.0,Norway,Forward,45,90.0
-Robert Lewandowski,35,1.87,82.0,Poland,Forward,33,90.0
+Erling Haaland,23,1.91,85.0,Norway,Forward,45,89.0
+Robert Lewandowski,35,1.87,82.0,Poland,Forward,33,88.6
 Kyle Walker,33,1.80,78.0,England,Defender,8,84.8
 Joao Cancelo,28,1.80,73.0,Portugal,Defender,5,83.9
 Luka Modric,38,1.73,73.0,Croatia,Midfielder,25,90.0
 Marco Verratti,31,1.77,67.0,Italy,Midfielder,8,80.6
 Benjamin Pavard,28,1.86,76.0,France,Defender,5,75.6
 Pedri,21,1.74,63.0,Spain,Midfielder,10,70.8
-Gianluigi Donnarumma,23,1.96,95.0,Italy,Goalkeeper,0,90.0
-Leonardo Bonucci,35,1.88,85.0,Italy,Defender,15,90.0
+Gianluigi Donnarumma,23,1.96,95.0,Italy,Goalkeeper,0,82.0
+Leonardo Bonucci,35,1.88,85.0,Italy,Defender,15,62.3
 Eduardo Camavinga,21,1.80,68.0,France,Midfielder,2,68.5
-Son Heung-min,31,1.83,77.0,South Korea,Forward,23,90.0
-Mats Hummels,35,1.91,83.0,Germany,Defender,15,90.0
+Son Heung-min,31,1.83,77.0,South Korea,Forward,23,85.3
+Mats Hummels,35,1.91,83.0,Germany,Defender,15,78.3
 Keylor Navas,37,1.85,79.0,Costa Rica,Goalkeeper,0,90.0
 Trent Alexander-Arnold,25,1.77,71.0,England,Defender,10,82.2
 Harry Kane,30,1.91,81.0,England,Forward,45,90.0
@@ -62,9 +62,9 @@ Kylian Mbappe,24,1.76,75.0,France,Forward,42,90.0
 Jack Grealish,25,1.79,72.0,England,Midfielder,15,73.3
 Toni Kroos,33,1.83,75.0,Germany,Midfielder,25,80.3
 Declan Rice,23,1.82,71.0,England,Midfielder,3,67.6
-Yann Sommer,35,1.85,82.0,Switzerland,Goalkeeper,0,90.0
-Hugo Lloris,36,1.88,79.0,France,Goalkeeper,0,90.0
-Kalidou Koulibaly,33,1.91,84.0,Senegal,Defender,5,90.0
+Yann Sommer,35,1.85,82.0,Switzerland,Goalkeeper,0,88.2
+Hugo Lloris,36,1.88,79.0,France,Goalkeeper,0,89.2
+Kalidou Koulibaly,33,1.91,84.0,Senegal,Defender,5,79.8
 Hakim Ziyech,29,1.81,70.0,Morocco,Forward,20,72.8
 Ciro Immobile,33,1.85,78.0,Italy,Forward,17,77.7
 Neymar Jr,31,1.76,75.0,Brazil,Forward,21,80.2
@@ -76,9 +76,9 @@ Romelu Lukaku,29,1.91,85.0,Belgium,Forward,28,78.0
 Dayot Upamecano,25,1.86,75.0,France,Defender,5,82.5
 Raphael Varane,30,1.91,85.0,France,Defender,10,72.8
 Ferran Torres,23,1.84,77.0,Spain,Forward,12,77.4
-Vinícius Júnior,23,1.76,73.0,Brazil,Forward,30,90.0
+Vinícius Júnior,23,1.76,73.0,Brazil,Forward,30,85.7
 Jude Bellingham,20,1.86,73.0,England,Midfielder,10,78.2
-Youssef En-Nesyri,26,1.92,81.0,Morocco,Forward,10,80.0
+Youssef En-Nesyri,26,1.92,81.0,Morocco,Forward,10,71.9
 Dani Carvajal,32,1.73,73.0,Spain,Defender,5,80.5
 Timo Werner,27,1.80,75.0,Germany,Forward,20,70.2
 Joshua Kimmich,28,1.77,70.0,Germany,Midfielder,10,85.4
